@@ -57,3 +57,8 @@ class Student {
 		return ects;
 		}
 }
+class Faculty
+{
+	List<Student>;
+	String FacultyName;
+}
